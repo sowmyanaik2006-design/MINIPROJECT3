@@ -1,0 +1,4 @@
+Model,Accuracy,Baseline
+Decision Tree,0.268,0.569
+Random Forest,0.276,0.569
+XGBoost,0.589,0.569
